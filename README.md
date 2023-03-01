@@ -3,4 +3,4 @@
 * app demo link: https://hebamak.github.io/Thefox-clone---Homepage/
 * screenshot: 
 
-[![Header](https://res.cloudinary.com/hapiii/image/upload//c_scale,h_900,/v1677685550/general-projects/l4gr1wphd7y7mr3tg701.png)](https://some-url.dev/)
+[![Header](https://res.cloudinary.com/hapiii/image/upload//c_scale,h_900,w_1200/v1677685550/general-projects/l4gr1wphd7y7mr3tg701.png)](https://some-url.dev/)
