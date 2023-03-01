@@ -1,5 +1,6 @@
 ## Thefox-clone Homepage
-* simple Home page used: Html, CSS, Jquery, Bootstrap
+* simple Home page 
+* technologes used: Html, CSS, Jquery, Bootstrap
 * app demo link: https://hebamak.github.io/Thefox-clone---Homepage/
 * screenshots: 
 
